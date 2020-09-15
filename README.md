@@ -1,1 +1,1 @@
-# HomeWork-4 is Prime Number Calculator in Java.
+# HomeWork-4 is a Prime Number Calculator in Java.
